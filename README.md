@@ -28,6 +28,9 @@ The data is contained in these three files (can be found in repo):
 * Jupyter Notebooks
 
 ## Summary of Findings
+
+A summary of findings and visuals can be found on [this blog post](https://towardsdatascience.com/optimizing-starbucks-app-offers-e9f10689972).
+
 ### Results
   * **Starbucks user demographics:**
     * 57% of users are males, 41% are females, and 1.4% are other genders. While the majority of users are males, females spend more with average expenses totalling to 140.91 USD. Total spending average for other genders is $124.32 and $99.59 and for males.   
